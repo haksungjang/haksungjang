@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an open source program manager at SK telecom.
+- 🔭 I’m currently working as an open source program manager at SK telecom : https://sktelecom.github.io/
 - 👯 I’m looking to collaborate on the OpenChain Korea Work Group : https://openchain-project.github.io/OpenChain-KWG/
 - 📫 How to reach me: https://haksungjang.github.io/
 
