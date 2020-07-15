@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as an open source program manager at SK telecom.
+- 👯 I’m looking to collaborate on the OpenChain Korea Work Group : https://openchain-project.github.io/OpenChain-KWG/
+- 📫 How to reach me: https://haksungjang.github.io/
+
 <!--
 **haksungjang/haksungjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
